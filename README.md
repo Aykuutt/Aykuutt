@@ -1,5 +1,9 @@
 # Selam, Ben Aykut! 👋
 
+<p align="center">
+  <img src="profile-pixel.png" alt="Aykut’un piksel sanatlı portresi" width="220">
+</p>
+
 <!-- Daktilo Rol Animasyonu -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Veri+Bilimi+%26+Analiti%C4%9Fi+%C3%96%C4%9Frencisi;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;C+%26+Python+%7C+Computer+Vision+%7C+Full+Stack;Algoritma+%26+Veri+Modelleme+Merakl%C4%B1s%C4%B1" alt="Typing SVG" />
