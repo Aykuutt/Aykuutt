@@ -1,7 +1,7 @@
 # Selam, Ben Aykut! 👋
 
 <p align="center">
-  <img src="profile-pixel.png" alt="Aykut’un piksel sanatlı portresi" width="220">
+  <img src="profile-pixel.png" alt="Aykut’un piksel sanatlı portresi" width="360">
 </p>
 
 <!-- Daktilo Rol Animasyonu -->
